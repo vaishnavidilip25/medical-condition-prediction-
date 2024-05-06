@@ -3,3 +3,4 @@ pandas==2.1.4
 pickleshare==0.7.5
 scikit-learn==1.2.2
 streamlit==1.34.0
+passlib==1.7.4
