@@ -4,5 +4,3 @@ pickleshare==0.7.5
 scikit-learn==1.2.2
 passlib==1.7.4
 streamlit==1.32.2
-pathlib==1.0.1
-pathspec==0.10.3
