@@ -2,8 +2,8 @@ import streamlit as st
 import numpy as np
 import pickle
 import sqlite3
-import hashlib
-from hashlib.hash import pbkdf2_sha256
+import passlib
+from passlib.hash import pbkdf2_sha256
 
 # Function to load models
 def load_model(file_path):
